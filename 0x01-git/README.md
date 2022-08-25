@@ -1,2 +1,1 @@
-task Readme
-with edit
+my project
